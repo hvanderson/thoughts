@@ -1,0 +1,21 @@
+Hi Hans,
+
+Oblong is excited to provide you with access to our g-speak and plasma software development kit. There are two components to our distribution channel, each has its own method of security.
+
+1. The platform distribution website
+
+Please browse to https://platform.oblong.com. You will be prompted for a username and password. Please use the following. Do not share this username/password with anyone.
+
+username: hans.anderson
+password: Hael7cuth8Ei
+
+
+2. The linux platform-specific package repositories.
+
+Our RedHat/CentOS yum repository and Debian apt-get repository require certificate-based authentication. In this packet, you received two certificate files. These should be placed in the appropriate location for your operating system. Instructions for each operating system are kept up to date on our platform distribution website. Please browse to Download, then to the appropriate linux flavor for specific instructions.
+
+We also have a Google support group which you can write to if you have questions regarding the use of the SDK. You may request access to this group by browsing to http://groups.google.com/group/g-speak-development.
+
+We look forward to working with you!
+
+The Oblong Team.
